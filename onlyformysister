@@ -84,18 +84,5 @@
         "IsTestingExclusive": false,
         "DownloadCount": 0,
         "LastUpdated": "0"
-    },
-    {
-        "Author":"Taurenkey & Puni.sh",
-        "Name":"Artisan",
-        "InternalName":"Artisan",
-        "AssemblyVersion":"1.0.6.4",
-        "Description":"The all-in-one crafting plugin.",
-        "ApplicableVersion":"any",
-        "RepoUrl":"https://github.com/Yarukon/Artisan",
-        "DalamudApiLevel":8,
-        "IconUrl":"https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall":"https://github.com/zoyuwi/MyDalamudPlugins/raw/main/Artisan.zip",
-        "DownloadLinkUpdate":"https://github.com/zoyuwi/MyDalamudPlugins/raw/main/Artisan.zip"
-    }   
+    }
 ]
