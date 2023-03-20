@@ -52,7 +52,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
-        "IconUrl": "https://https://github.com/daemitus/MyDalamudPlugins/raw/CN/plugins/SomethingNeedDoing/images/icon.png",
+        "IconUrl": "https://github.com/daemitus/MyDalamudPlugins/raw/CN/plugins/SomethingNeedDoing/images/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/daemitus/MyDalamudPlugins/raw/CN/plugins/SomethingNeedDoing/latest.zip",
         "IsHide": false,
