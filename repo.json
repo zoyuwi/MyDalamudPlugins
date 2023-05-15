@@ -114,7 +114,7 @@
         "RepoUrl":"https://github.com/Yarukon/Artisan",
         "DalamudApiLevel":8,
         "IconUrl":"https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall":"https://github.com/zoyuwi/MyDalamudPlugins/raw/main/Artisan.zip",
-        "DownloadLinkUpdate":"https://github.com/zoyuwi/MyDalamudPlugins/raw/main/Artisan.zip"
+        "DownloadLinkInstall":"https://raw.fastgit.org/zoyuwi/MyDalamudPlugins/main/Artisan.zip",
+        "DownloadLinkUpdate":"https://raw.fastgit.org/zoyuwi/MyDalamudPlugins/main/Artisan.zip"
     }   
 ]
